@@ -38,3 +38,5 @@ The ```source``` folder contains
 
 A skect of the Mobile Manipulator, along with the kinematic and dynamic quantities that are specified in the scripts, can be found in ```media/MM_measures.PNG```.
  
+
+Project realized by me (luca.nunziante1999@gmail.com) and Giovanbattista Gravina (gianba.gravina7@gmail.com)
