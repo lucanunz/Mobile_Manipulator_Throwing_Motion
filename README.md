@@ -22,8 +22,7 @@ The cost function is composed of four terms: we have the running and terminal co
 
 The following video, available also in the ```media``` folder, shows the obtained solution and the influence of the base penalization parameter $\rho$
 
-https://github.com/lucanunz/Mobile_Manipulator_Throwing_Motion/assets/72447693/8ab48420-8e54-4cb1-b80d-a0626376cc22
-
+https://github.com/lucanunz/Mobile_Manipulator_Throwing_Motion/tree/main/media/video_aggressive.mp4
 
 More details are available in the pdf, and an extended version of this video, with additional simulations, is available [here](https://drive.google.com/drive/folders/1KANx67GlRE-5K6ukSk9xtMDbt_H63qQR).
 
