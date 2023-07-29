@@ -9,4 +9,4 @@ The ```source``` folder contains
   - ```optimization.m``` solves the Non Linear Program
   - ```dt_dynamics.m``` discretizes the dynamics with 4th-order Runge-Kutta
 
-A skect of the Mobile Manipulator, along with the kinematic and dynamic quantities that are specified in the scripts, can be found in ```imgs/MM_measures.PNG```.
+A skect of the Mobile Manipulator, along with the kinematic and dynamic quantities that are specified in the scripts, can be found in ```media/MM_measures.PNG```.
